@@ -46,7 +46,7 @@ src/
 ## ▶ Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/FeriaEmpresarial.git
+   git clone https://github.com/srodrigueztorres/FeriaEmpresarialEAN
 2. Abrir el proyecto en tu IDE Java preferido.
 
 3. Ejecutar la clase Main.java ubicada en el paquete app.
