@@ -31,15 +31,25 @@ Desarrollar una aplicación en Java que permita:
 
 ## 📂 Estructura del Proyecto
 src/
+
 ├── app/
+
 │ └── Main.java
+
 ├── modelo/
+
 │ ├── Empresa.java
+
 │ ├── Stand.java
-│ ├── Visitante.java
+
+│ ├── Visitante.java 
+
 │ └── Comentario.java
+
 └── servicio/
+
 └── Feria.java
+
 ## 🖼 Diagrama UML
 ![Diagrama UML](feria_empresarial_uml.jpeg)
 
